@@ -37,9 +37,3 @@ function newClock(){
 
 newClock();
 setInterval(newClock, 1000);
-
-
-
-
-
-    
